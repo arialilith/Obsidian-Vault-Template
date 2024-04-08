@@ -1,0 +1,1 @@
+# Aria-Obsidian-Journal-Vault-Template
