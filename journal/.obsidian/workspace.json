@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/00 - Templates/(TEMPLATE) Event Template.md",
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily Note Template.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - Meta/00 - Templates/(TEMPLATE) Event Template.md",
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - Meta/00 - Templates/(TEMPLATE) Event Template.md",
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily Note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - Meta/00 - Templates/(TEMPLATE) Event Template.md"
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Daily Note Template.md"
               }
             }
           },
@@ -159,12 +159,12 @@
   },
   "active": "e1695ce1d2419f37",
   "lastOpenFiles": [
-    "99 - Meta/00 - Templates/(TEMPLATE) Monthly Note Template.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Highlight.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Thought Template.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Event Template.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily Note Template.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Highlight.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Monthly Note Template.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Thought Template.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Yearly Note Template.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily Note Template.md",
     "04 - Yearly Notes/2023.md",
     "04 - Monthly Notes/2023/11 - November 2023.md",
     "03 - Daily Notes/2023/11 - November 2023/2023-11-06.md",
