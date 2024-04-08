@@ -1,0 +1,10 @@
+{
+  "userIgnoreFilters": [
+    "templates/"
+  ],
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "livePreview": true,
+  "propertiesInDocument": "hidden",
+  "showInlineTitle": false
+}

@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiImage",
+      "IbDatabse",
+      "FiStar",
+      "TiTimeline",
+      "FiCalendar"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "00 - Homepages/Homepage.md": "TiHome",
+  "99 - Meta/00 - Templates": "TiTemplate",
+  "99 - Meta/01 - Attachments": "LiImage",
+  "02 - Thoughts": "FiCloud",
+  "00 - Homepages": "FiMap",
+  "03 - Daily Notes": "TiBrandDaysCounter",
+  "04 - Monthly Notes": "FiCalendar",
+  "05 - Yearly Notes": "TiTimeline",
+  "01 - Events": "FiStar",
+  "99 - Meta": "IbDatabse"
+}

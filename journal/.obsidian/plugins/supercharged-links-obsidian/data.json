@@ -1,0 +1,122 @@
+{
+  "targetAttributes": [],
+  "targetTags": true,
+  "getFromInlineField": true,
+  "enableTabHeader": true,
+  "activateSnippet": true,
+  "enableEditor": true,
+  "enableFileList": true,
+  "enableBacklinks": true,
+  "enableQuickSwitcher": true,
+  "enableSuggestor": true,
+  "selectors": [
+    {
+      "type": "path",
+      "name": "",
+      "value": "00 - Homepages",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "0552-1e5e",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "01 - Events",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "6c3e-9ada",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "04 - Monthly Notes",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "dd98-ec47",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "03 - Daily Notes",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "290d-9a4d",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "02 - Thoughts",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "6fe7-9a3d",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "path",
+      "name": "",
+      "value": "05 - Yearly Notes",
+      "matchCaseSensitive": false,
+      "match": "contains",
+      "uid": "2847-2a62",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "date",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "3350-7110",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "party",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "3c14-d2c4",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
+      "type": "tag",
+      "name": "",
+      "value": "bigevent",
+      "matchCaseSensitive": false,
+      "match": "exact",
+      "uid": "1c17-6040",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    }
+  ]
+}

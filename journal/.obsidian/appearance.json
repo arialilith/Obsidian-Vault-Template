@@ -1,0 +1,18 @@
+{
+  "accentColor": "#9663e3",
+  "theme": "obsidian",
+  "cssTheme": "Vanilla AMOLED",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "dashboard",
+    "hideinlinetagdv",
+    "colorfolder",
+    "daily",
+    "fonts",
+    "highlight"
+  ],
+  "showViewHeader": true,
+  "textFontFamily": "Fira Mono",
+  "interfaceFontFamily": "Fira Mono",
+  "monospaceFontFamily": "Fira Mono"
+}

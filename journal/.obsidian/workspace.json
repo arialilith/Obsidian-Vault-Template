@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "0b43d6c3e8f13684",
+    "type": "split",
+    "children": [
+      {
+        "id": "2811d7511c15adbb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac48b1f759d005b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - Homepages/Homepage.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd487bfe05433c2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "64a5a59ab8bcc82c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df0663f8d0e433da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3ed6845f5525bb3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6f5d6dd1078c808",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "15b7fb4bfb2323ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fc839d7103ea97a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e05b96b64ec2043",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 - Homepages/Homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "505aed3cbc73194f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 - Homepages/Homepage.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27557d2f743177d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ae3a9ad70e33b65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 - Homepages/Homepage.md"
+              }
+            }
+          },
+          {
+            "id": "7018bf3aac88d202",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "ac48b1f759d005b3",
+  "lastOpenFiles": [
+    "00 - Homepages/All Events.md",
+    "04 - Monthly Notes/2024/02 - February 2024.md",
+    "05 - Yearly Notes/2024.md",
+    "05 - Yearly Notes/2023.md",
+    "00 - Homepages/Cyber Ghetto.md",
+    "00 - Homepages/Devon.md",
+    "03 - Daily Notes/2024/04 - April 2024/2024-04-07.md",
+    "03 - Daily Notes/2024/04 - April 2024/2024-04-08.md",
+    "03 - Daily Notes/2024/04 - April 2024/2024-04-01.md",
+    "02 - Thoughts/2024/02 - February 2024 Thoughts/late night talk with Devon.md",
+    "02 - Thoughts/2024/02 - February 2024 Thoughts/Devon visit Feb 24th.md",
+    "02 - Thoughts/2024/02 - February 2024 Thoughts/Remembered Devon memories from 2023.md",
+    "02 - Thoughts/2024/03 - March 2024 Thoughts/Devon got Covid.md",
+    "02 - Thoughts/2024/03 - March 2024 Thoughts/Devon move!.md",
+    "02 - Thoughts/2024/03 - March 2024 Thoughts/Devon sleep over.md",
+    "02 - Thoughts/2024/03 - March 2024 Thoughts/March 25th Thoughts.md",
+    "02 - Thoughts/2024/03 - March 2024 Thoughts/End of Evangelion with Devon and Soam.md",
+    "02 - Thoughts/2024/03 - March 2024 Thoughts/Thoughts After Finishing Neon Genesis Evangelion.md",
+    "02 - Thoughts/2024/04 - April 2024 Thoughts/Started this obsidian journal.md",
+    "02 - Thoughts/2024/04 - April 2024 Thoughts/Thoughts on Watching Rocket League.md",
+    "04 - Monthly Notes/2024/03 - March 2024.md",
+    "04 - Monthly Notes/2024/04 - April 2024.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily Note Template.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Event Template.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Monthly Note Template.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Thought Template.md",
+    "99 - Meta/02 - Fonts/JosefinSans-Thin.ttf",
+    "99 - Meta/02 - Fonts/FiraMono-Regular.ttf",
+    "99 - Meta/02 - Fonts/FiraMono-Medium.ttf",
+    "99 - Meta/02 - Fonts/FiraMono-Bold.ttf",
+    "99 - Meta/02 - Fonts/JosefinSans-ThinItalic.ttf",
+    "99 - Meta/02 - Fonts",
+    "03 - Daily Notes/2024/04 - April 2024",
+    "journal/daily notes/daily notes",
+    "journal/daily notes",
+    "journal",
+    "99 - Meta/01 - Attachments/Misc/basho api.jpg",
+    "99 - Meta/01 - Attachments/Anime Boston Weekend/Taiyaki 1.jpg",
+    "99 - Meta/01 - Attachments/Freakend/shamrock shake.jpg",
+    "99 - Meta/01 - Attachments/Anime Boston Weekend/olive garden.jpg",
+    "99 - Meta/01 - Attachments/Anime Boston Weekend/card 1.jpg",
+    "99 - Meta/01 - Attachments/Anime Boston Weekend/power 1.jpg",
+    "99 - Meta/01 - Attachments/Best Week/french toast.jpg",
+    "99 - Meta/01 - Attachments/Freakend/Freakend 6 - soam kill.jpg",
+    "99 - Meta/01 - Attachments/Freakend/Freakend 6 - soam gun.jpg",
+    "99 - Meta/01 - Attachments/Freakend/Freakend 2 - 1.jpg"
+  ]
+}
