@@ -15,8 +15,8 @@
   },
   "monthly": {
     "format": "MMMM YYYY",
-    "template": "templates/month template.md",
-    "folder": "journal/months",
+    "template": "99 - Meta/00 - Templates/(TEMPLATE) Monthly Note Template.md",
+    "folder": "04 - Monthly Notes",
     "enabled": true
   },
   "quarterly": {
@@ -26,8 +26,8 @@
   },
   "yearly": {
     "format": "",
-    "template": "",
-    "folder": "journal/years",
+    "template": "99 - Meta/00 - Templates/(TEMPLATE) Yearly Note Template.md",
+    "folder": "05 - Yearly Notes",
     "enabled": true
   }
 }

@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2811d7511c15adbb",
+        "id": "522a7464593c5d7f",
         "type": "tabs",
         "children": [
           {
-            "id": "ac48b1f759d005b3",
+            "id": "e1695ce1d2419f37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - Homepages/Homepage.md",
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Event Template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - Homepages/Homepage.md",
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Event Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - Homepages/Homepage.md",
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Event Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - Homepages/Homepage.md"
+                "file": "99 - Meta/00 - Templates/(TEMPLATE) Event Template.md"
               }
             }
           },
@@ -157,44 +157,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ac48b1f759d005b3",
+  "active": "e1695ce1d2419f37",
   "lastOpenFiles": [
+    "99 - Meta/00 - Templates/(TEMPLATE) Monthly Note Template.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Highlight.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Thought Template.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Event Template.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily Note Template.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Yearly Note Template.md",
+    "04 - Yearly Notes/2023.md",
+    "04 - Monthly Notes/2023/11 - November 2023.md",
+    "03 - Daily Notes/2023/11 - November 2023/2023-11-06.md",
+    "04 - Yearly Notes/2024.md",
+    "04 - Yearly Notes",
+    "04 - Monthly Notes/2024/04 - April 2024.md",
+    "04 - Monthly Notes/2024/03 - March 2024.md",
+    "03 - Daily Notes/2024/04 - April 2024/2024-04-08.md",
+    "03 - Daily Notes/2024/04 - April 2024/2024-04-07.md",
+    "03 - Daily Notes/2023/11 - November 2023/2023-11-07.md",
+    "02 - Thoughts/2024/04 - April 2024/test.md",
+    "01 - Events/2024/04 - April 2024/test.md",
+    "01 - Events/2024/04 - April 2024",
+    "02 - Thoughts/2024/04 - April 2024",
+    "04 - Monthly Notes/2023/12 - December 2023.md",
+    "04 - Monthly Notes/2023",
+    "03 - Daily Notes/2023/11 - November 2023",
+    "03 - Daily Notes/2023",
+    "03 - Daily Notes/2023/2023-11-07.md",
+    "03 - Daily Notes/2024/11 - November 2023/2023-11-15.md",
+    "03 - Daily Notes/2024/11 - November 2023",
+    "04 - Monthly Notes/2024",
+    "00 - Homepages/Homepage.md",
+    "03 - Daily Notes/2024/04 - April 2024",
+    "03 - Daily Notes/2024",
+    "04 - Monthly Notes/2024/04 - April 2024/04 - April 2024.md",
     "00 - Homepages/All Events.md",
     "04 - Monthly Notes/2024/02 - February 2024.md",
     "05 - Yearly Notes/2024.md",
     "05 - Yearly Notes/2023.md",
-    "00 - Homepages/Cyber Ghetto.md",
-    "00 - Homepages/Devon.md",
-    "03 - Daily Notes/2024/04 - April 2024/2024-04-07.md",
-    "03 - Daily Notes/2024/04 - April 2024/2024-04-08.md",
-    "03 - Daily Notes/2024/04 - April 2024/2024-04-01.md",
-    "02 - Thoughts/2024/02 - February 2024 Thoughts/late night talk with Devon.md",
-    "02 - Thoughts/2024/02 - February 2024 Thoughts/Devon visit Feb 24th.md",
-    "02 - Thoughts/2024/02 - February 2024 Thoughts/Remembered Devon memories from 2023.md",
-    "02 - Thoughts/2024/03 - March 2024 Thoughts/Devon got Covid.md",
-    "02 - Thoughts/2024/03 - March 2024 Thoughts/Devon move!.md",
-    "02 - Thoughts/2024/03 - March 2024 Thoughts/Devon sleep over.md",
-    "02 - Thoughts/2024/03 - March 2024 Thoughts/March 25th Thoughts.md",
-    "02 - Thoughts/2024/03 - March 2024 Thoughts/End of Evangelion with Devon and Soam.md",
-    "02 - Thoughts/2024/03 - March 2024 Thoughts/Thoughts After Finishing Neon Genesis Evangelion.md",
-    "02 - Thoughts/2024/04 - April 2024 Thoughts/Started this obsidian journal.md",
-    "02 - Thoughts/2024/04 - April 2024 Thoughts/Thoughts on Watching Rocket League.md",
-    "04 - Monthly Notes/2024/03 - March 2024.md",
-    "04 - Monthly Notes/2024/04 - April 2024.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Daily Note Template.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Event Template.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Monthly Note Template.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Thought Template.md",
-    "99 - Meta/02 - Fonts/JosefinSans-Thin.ttf",
-    "99 - Meta/02 - Fonts/FiraMono-Regular.ttf",
-    "99 - Meta/02 - Fonts/FiraMono-Medium.ttf",
-    "99 - Meta/02 - Fonts/FiraMono-Bold.ttf",
-    "99 - Meta/02 - Fonts/JosefinSans-ThinItalic.ttf",
-    "99 - Meta/02 - Fonts",
-    "03 - Daily Notes/2024/04 - April 2024",
-    "journal/daily notes/daily notes",
-    "journal/daily notes",
-    "journal",
     "99 - Meta/01 - Attachments/Misc/basho api.jpg",
     "99 - Meta/01 - Attachments/Anime Boston Weekend/Taiyaki 1.jpg",
     "99 - Meta/01 - Attachments/Freakend/shamrock shake.jpg",

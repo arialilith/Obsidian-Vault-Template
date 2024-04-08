@@ -4,9 +4,9 @@ subtitle:
 type:
 subtype:
 tags: [thought]
----<% await tp.file.move("02 - Thoughts/2024/" + tp.date.now("MM - MMMM YYYY") + "/" + tp.file.title) %>
+---<% await tp.file.move("02 - Thoughts/" + tp.date.now("YYYY") + "/" + tp.date.now("MM - MMMM YYYY") + "/" + tp.file.title) %>
 Tags: #thoughts
-Links: [[<% tp.date.now("YYYY-MM-DD") %>]]
+Links: [[<% tp.date.now("YYYY-MM-DD") %>]] | [[<% tp.date.now("MM - MMMM YYYY")%>]]
 
 ---
 # <% tp.file.title %>

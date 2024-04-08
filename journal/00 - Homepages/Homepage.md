@@ -12,12 +12,7 @@ dv.taskList(dv.pages('"03 - Daily Notes"').file.tasks
 ---
 ### Important Links
 - #### Spreadsheets
-	- [Devon x Aria Bucket List](https://docs.google.com/spreadsheets/d/1LuVt7nI7i_dwfdH8-idVhor8Ote92spgLxKZjWDwf8A/edit#gid=0)
-	- [Semester Spending](https://docs.google.com/spreadsheets/d/1HLuvqtEkg2tjGBQmG2FvrKhgoUsxKMQ7WaRfXl4TtDs/edit#gid=0)
-	- [Shopping List](https://docs.google.com/spreadsheets/d/10p9KcJB2YOWxnwuyJ8aO5owQE5f-zT8zlChiSs_rvOc/edit#gid=0)
 - #### Google
-	- [Google Calendar](https://calendar.google.com/calendar/u/0/r)
-	- [Google Photos](https://photos.google.com/)
 
 ---
 ### Notes

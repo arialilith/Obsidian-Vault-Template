@@ -3,9 +3,9 @@ date: <% tp.file.title %>
 tags:
 cssclass: daily
 
----<% await tp.file.move("03 - Daily Notes/2024/" + tp.date.now("MM - MMMM YYYY") + "/" + tp.file.title) %>
+---<% await tp.file.move("03 - Daily Notes/" + tp.date.now("YYYY", 0, tp.file.title, "YYYY-MM-DD") + "/" + tp.date.now("MM - MMMM YYYY", 0, tp.file.title, "YYYY-MM-DD") + "/" + tp.file.title) %>
 # DAILY NOTE
-## <% tp.date.now("dddd | MMMM Do, YYYY")%>
+## <% tp.date.now("dddd | MMMM Do, YYYY", 0, tp.file.title, "YYYY-MM-DD")%>
 
 ###### << [[<% tp.date.now("YYYY-MM-DD", -1, tp.file.title, "YYYY-MM-DD") %>|<% tp.date.now("dddd, MMMM Do", -1, tp.file.title, "YYYY-MM-DD") %>]] - [[<% tp.date.now("YYYY-MM-DD", 1, tp.file.title, "YYYY-MM-DD") %>|<% tp.date.now("dddd, MMMM Do", 1, tp.file.title, "YYYY-MM-DD") %>]] >>
 
@@ -22,4 +22,4 @@ cssclass: daily
 - 
 
 ---
-Links: [[<% tp.date.now("MMMM YYYY") %>]]
+Links: [[<% tp.date.now("MM - MMMM YYYY", 0, tp.file.title, "YYYY-MM-DD") %>]]
