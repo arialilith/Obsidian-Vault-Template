@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiImage",
-      "IbDatabse",
+      "LiVault",
+      "LiWind",
       "FiStar",
-      "TiTimeline",
-      "FiCalendar"
+      "FiBookOpen",
+      "BoBxArea"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -28,14 +28,18 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":"
   },
-  "00 - Homepages/Homepage.md": "TiHome",
   "99 - Meta/00 - Templates": "TiTemplate",
   "99 - Meta/01 - Attachments": "LiImage",
-  "02 - Thoughts": "FiCloud",
+  "99 - Meta": "IbDatabse",
   "00 - Homepages": "FiMap",
-  "03 - Daily Notes": "TiBrandDaysCounter",
-  "04 - Monthly Notes": "FiCalendar",
-  "05 - Yearly Notes": "TiTimeline",
-  "01 - Events": "FiStar",
-  "99 - Meta": "IbDatabse"
+  "00 - Homepages/Homepage.md": "TiHome",
+  "01 - Projects": "OcProject16",
+  "02 - Areas": "BoBxArea",
+  "05 - Journal": "FiBookOpen",
+  "05 - Journal/Monthly Notes": "FiCalendar",
+  "05 - Journal/Yearly Notes": "TiTimeline",
+  "03 - Permanent/Thoughts": "FiCloud",
+  "03 - Permanent": "FiStar",
+  "04 - Fleeting": "LiWind",
+  "06 - Archives": "LiVault"
 }

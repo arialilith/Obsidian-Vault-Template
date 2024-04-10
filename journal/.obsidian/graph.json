@@ -15,13 +15,6 @@
       }
     },
     {
-      "query": "path: \"02 - Thoughts\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 6747647
-      }
-    },
-    {
       "query": "tag:#date  ",
       "color": {
         "a": 1,
@@ -29,51 +22,58 @@
       }
     },
     {
-      "query": "path: \"00 - Homepages\"  ",
+      "query": "path:\"00 - Homepages\"  ",
       "color": {
         "a": 1,
-        "rgb": 7295476
+        "rgb": 7007904
       }
     },
     {
-      "query": "path: \"03 - Daily Notes\"  ",
+      "query": "path:\"01 - Projects\"  ",
       "color": {
         "a": 1,
-        "rgb": 14962254
+        "rgb": 5628394
       }
     },
     {
-      "query": "path: \"01 - Events\"  ",
+      "query": "path:\"02 - Areas\"  ",
       "color": {
         "a": 1,
-        "rgb": 4483320
+        "rgb": 6666235
       }
     },
     {
-      "query": "path: \"04 - Monthly Notes\"  ",
+      "query": "path:\"03 - Permanent\"  ",
       "color": {
         "a": 1,
-        "rgb": 14890590
+        "rgb": 9521404
       }
     },
     {
-      "query": "path: \"05 - Yearly Notes\"  ",
+      "query": "path:\"04 - Fleeting\"  ",
       "color": {
         "a": 1,
-        "rgb": 14822460
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "path:\"05 - Journal\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14231864
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 2.43515625,
-  "lineSizeMultiplier": 1.05703125,
+  "nodeSizeMultiplier": 2.51171875,
+  "lineSizeMultiplier": 1.00598958333333,
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 500,
-  "scale": 0.19450022690616292,
+  "linkDistance": 30,
+  "scale": 0.050344177366521824,
   "close": true
 }

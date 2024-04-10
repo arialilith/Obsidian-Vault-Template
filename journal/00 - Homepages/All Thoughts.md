@@ -1,7 +1,7 @@
 ---
 date: 3000-01-01
 cssclass: dashboard
-tags: thoughts
+tags: thought
 
 ---
 # All Thoughts

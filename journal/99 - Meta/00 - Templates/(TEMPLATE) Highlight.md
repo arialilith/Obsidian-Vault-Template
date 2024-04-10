@@ -1,1 +1,1 @@
-<%* tR = `(highlight:: ${tp.file.selection()})`; -%>
+<%* tR = `⭐[highlight:: ${tp.file.selection()}]`; -%>

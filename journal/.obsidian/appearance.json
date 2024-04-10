@@ -9,7 +9,11 @@
     "colorfolder",
     "daily",
     "fonts",
-    "highlight"
+    "highlight",
+    "thoughts",
+    "events",
+    "imagestogether",
+    "plant"
   ],
   "showViewHeader": true,
   "textFontFamily": "Fira Mono",

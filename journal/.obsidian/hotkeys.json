@@ -88,6 +88,15 @@
       "key": "E"
     }
   ],
+  "templater-obsidian:99 - Meta/00 - Templates/(TEMPLATE) Daily Note Template.md": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
   "templater-obsidian:99 - Meta/00 - Templates/(TEMPLATE) Thought Template.md": [
     {
       "modifiers": [
@@ -95,6 +104,15 @@
         "Shift"
       ],
       "key": "T"
+    }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
     }
   ]
 }

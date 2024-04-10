@@ -15,7 +15,7 @@ customization. Just swap out the color variable names in the prefix groups.
 
 :root {
   /* ================================ Colors ================================ */
-  --red: #e22c3c;                /* Default Prefix: None */
+  --red: #e22c3c;                /* Default Prefix: 05 */
   --red-orange: #e9404b;         /* Default Prefix: None */
   --orange: #ee6748;             /* Default Prefix: None */
   --amber: #fa9f50;              /* Default Prefix: None */
@@ -25,12 +25,12 @@ customization. Just swap out the color variable names in the prefix groups.
   --cyan: #51e1e9;               /* Default Prefix: 01 */
   --cool-cyan: #43cfea;          /* Default Prefix: None */
   --light-blue: #54b6f8;         /* Default Prefix: 02 */
-  --blue: #437cf3;               /* Default Prefix: 03 */
-  --blue-violet: #6f51f4;        /* Default Prefix: None */
-  --violet: #9446f8;             /* Default Prefix: 04 */
-  --purple: #c952ed;             /* Default Prefix: 05 */
-  --magenta: #e54f9b;            /* Default Prefix: 06 */
-  --hot-red: #e3365e;            /* Default Prefix: 07 */
+  --blue: #437cf3;               /* Default Prefix: 0 */
+  --blue-violet: #6f51f4;        /* Default Prefix: 0 */
+  --violet: #9446f8;             /* Default Prefix: 03 */
+  --purple: #c952ed;             /* Default Prefix: 0 */
+  --magenta: #e54f9b;            /* Default Prefix: 04 */
+  --hot-red: #e3365e;            /* Default Prefix: 0 */
   --cool-gray: #515768;          /* Default Prefix: 99 */
 
   --default-text-color: #d0d0d0;
@@ -96,35 +96,35 @@ these to suit your own folder structure and vault theme!
 
 /* ------------------------------- 00 Prefix -------------------------------- */
 .nav-folder-title[data-path^="00"] {
-  color: var(--blue-violet);
+  color: var( --mint);
   --nav-item-color-hover: color-mix(
     in srgb,
-    var(--blue-violet) var(--fg-contrast-amount),
+    var( --mint) var(--fg-contrast-amount),
     var(--contrast-color)
   );
   --nav-item-background-hover: color-mix(
     in srgb,
-    var(--blue-violet) var(--bg-contrast-amount),
+    var( --mint) var(--bg-contrast-amount),
     transparent
   );
   --background-modifier-border-focus: color-mix(
     in srgb,
-    var(--blue-violet) 40%,
+    var( --mint) 40%,
     transparent
   );
-  --nav-collapse-icon-color: color-mix(in srgb, var(--blue-violet) 60%, transparent);
+  --nav-collapse-icon-color: color-mix(in srgb, var( --mint) 60%, transparent);
 }
 .nav-folder-title[data-path^="00"]:hover {
   --nav-collapse-icon-color: color-mix(
     in srgb,
-    var(--blue-violet) 60%,
+    var( --mint) 60%,
     var(--contrast-color)
   );
 }
 .tree-item-children .nav-folder:has(.nav-folder-title[data-path^="00"]) {
   --nav-indentation-guide-color: color-mix(
     in srgb,
-    var(--blue-violet) var(--medium-contrast-amount),
+    var( --mint) var(--medium-contrast-amount),
     transparent
   );
 }
@@ -133,58 +133,58 @@ these to suit your own folder structure and vault theme!
   .nav-file-title {
   color: color-mix(
     in srgb,
-    var(--blue-violet) var(--medium-contrast-amount),
+    var( --mint) var(--medium-contrast-amount),
     var(--default-text-color)
   );
   --nav-item-background-hover: color-mix(
     in srgb,
-    color-mix(in srgb, var(--blue-violet) 50%, var(--highlight))
+    color-mix(in srgb, var( --mint) 50%, var(--highlight))
       var(--bg-contrast-amount),
     transparent
   );
   --background-modifier-border-focus: color-mix(
     in srgb,
-    var(--blue-violet) 40%,
+    var( --mint) 40%,
     transparent
   );
   --nav-item-background-active: color-mix(
     in srgb,
-    var(--blue-violet) var(--active-contrast-amount),
+    var( --mint) var(--active-contrast-amount),
     transparent
   );
 }
 
 /* ------------------------------- 01 Prefix -------------------------------- */
 .nav-folder-title[data-path^="01"] {
-  color: var(--violet);
+  color: var(--cyan);
   --nav-item-color-hover: color-mix(
     in srgb,
-    var(--violet) var(--fg-contrast-amount),
+    var(--cyan) var(--fg-contrast-amount),
     var(--contrast-color)
   );
   --nav-item-background-hover: color-mix(
     in srgb,
-    var(--violet) var(--bg-contrast-amount),
+    var(--cyan) var(--bg-contrast-amount),
     transparent
   );
   --background-modifier-border-focus: color-mix(
     in srgb,
-    var(--violet) 40%,
+    var(--cyan) 40%,
     transparent
   );
-  --nav-collapse-icon-color: color-mix(in srgb, var(--violet) 60%, transparent);
+  --nav-collapse-icon-color: color-mix(in srgb, var(--cyan) 60%, transparent);
 }
 .nav-folder-title[data-path^="01"]:hover {
   --nav-collapse-icon-color: color-mix(
     in srgb,
-    var(--violet) 60%,
+    var(--cyan) 60%,
     var(--contrast-color)
   );
 }
 .tree-item-children .nav-folder:has(.nav-folder-title[data-path^="01"]) {
   --nav-indentation-guide-color: color-mix(
     in srgb,
-    var(--violet) var(--medium-contrast-amount),
+    var(--cyan) var(--medium-contrast-amount),
     transparent
   );
 }
@@ -193,62 +193,62 @@ these to suit your own folder structure and vault theme!
   .nav-file-title {
   color: color-mix(
     in srgb,
-    var(--violet) var(--medium-contrast-amount),
+    var(--cyan) var(--medium-contrast-amount),
     var(--default-text-color)
   );
   --nav-item-background-hover: color-mix(
     in srgb,
-    color-mix(in srgb, var(--violet) 50%, var(--highlight))
+    color-mix(in srgb, var(--cyan) 50%, var(--highlight))
       var(--bg-contrast-amount),
     transparent
   );
   --background-modifier-border-focus: color-mix(
     in srgb,
-    var(--violet) 40%,
+    var(--cyan) 40%,
     transparent
   );
   --nav-item-background-active: color-mix(
     in srgb,
-    var(--violet) var(--active-contrast-amount),
+    var(--cyan) var(--active-contrast-amount),
     transparent
   );
 }
 
 /* ------------------------------- 02 Prefix -------------------------------- */
 .nav-folder-title[data-path^="02"] {
-  color: var(--purple);
+  color: var( --light-blue);
   --nav-item-color-hover: color-mix(
     in srgb,
-    var(--purple) var(--fg-contrast-amount),
+    var( --light-blue) var(--fg-contrast-amount),
     var(--contrast-color)
   );
   --nav-item-background-hover: color-mix(
     in srgb,
-    var(--purple) var(--bg-contrast-amount),
+    var( --light-blue) var(--bg-contrast-amount),
     transparent
   );
   --background-modifier-border-focus: color-mix(
     in srgb,
-    var(--purple) 40%,
+    var( --light-blue) 40%,
     transparent
   );
   --nav-collapse-icon-color: color-mix(
     in srgb,
-    var(--purple) 60%,
+    var( --light-blue) 60%,
     transparent
   );
 }
 .nav-folder-title[data-path^="02"]:hover {
   --nav-collapse-icon-color: color-mix(
     in srgb,
-    var(--purple) 60%,
+    var( --light-blue) 60%,
     var(--contrast-color)
   );
 }
 .tree-item-children .nav-folder:has(.nav-folder-title[data-path^="02"]) {
   --nav-indentation-guide-color: color-mix(
     in srgb,
-    var(--purple) var(--medium-contrast-amount),
+    var( --light-blue) var(--medium-contrast-amount),
     transparent
   );
 }
@@ -257,29 +257,89 @@ these to suit your own folder structure and vault theme!
   .nav-file-title {
   color: color-mix(
     in srgb,
-    var(--purple) var(--medium-contrast-amount),
+    var( --light-blue) var(--medium-contrast-amount),
     var(--default-text-color)
   );
   --nav-item-background-hover: color-mix(
     in srgb,
-    color-mix(in srgb, var(--purple) 50%, var(--highlight))
+    color-mix(in srgb, var( --light-blue) 50%, var(--highlight))
       var(--bg-contrast-amount),
     transparent
   );
   --background-modifier-border-focus: color-mix(
     in srgb,
-    var(--purple) 40%,
+    var( --light-blue) 40%,
     transparent
   );
   --nav-item-background-active: color-mix(
     in srgb,
-    var(--purple) var(--active-contrast-amount),
+    var( --light-blue) var(--active-contrast-amount),
     transparent
   );
 }
 
 /* ------------------------------- 03 Prefix -------------------------------- */
 .nav-folder-title[data-path^="03"] {
+  color: var( --violet);
+  --nav-item-color-hover: color-mix(
+    in srgb,
+    var( --violet) var(--fg-contrast-amount),
+    var(--contrast-color)
+  );
+  --nav-item-background-hover: color-mix(
+    in srgb,
+    var( --violet) var(--bg-contrast-amount),
+    transparent
+  );
+  --background-modifier-border-focus: color-mix(
+    in srgb,
+    var( --violet) 40%,
+    transparent
+  );
+  --nav-collapse-icon-color: color-mix(in srgb, var( --violet) 60%, transparent);
+}
+.nav-folder-title[data-path^="03"]:hover {
+  --nav-collapse-icon-color: color-mix(
+    in srgb,
+    var( --violet) 60%,
+    var(--contrast-color)
+  );
+}
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="03"]) {
+  --nav-indentation-guide-color: color-mix(
+    in srgb,
+    var( --violet) var(--medium-contrast-amount),
+    transparent
+  );
+}
+.tree-item-children
+  .nav-folder:has(.nav-folder-title[data-path^="03"])
+  .nav-file-title {
+  color: color-mix(
+    in srgb,
+    var( --violet) var(--medium-contrast-amount),
+    var(--default-text-color)
+  );
+  --nav-item-background-hover: color-mix(
+    in srgb,
+    color-mix(in srgb, var( --violet) 50%, var(--highlight))
+      var(--bg-contrast-amount),
+    transparent
+  );
+  --background-modifier-border-focus: color-mix(
+    in srgb,
+    var( --violet) 40%,
+    transparent
+  );
+  --nav-item-background-active: color-mix(
+    in srgb,
+    var( --violet) var(--active-contrast-amount),
+    transparent
+  );
+}
+
+/* ------------------------------- 04 Prefix -------------------------------- */
+.nav-folder-title[data-path^="04"] {
   color: var(--magenta);
   --nav-item-color-hover: color-mix(
     in srgb,
@@ -298,14 +358,14 @@ these to suit your own folder structure and vault theme!
   );
   --nav-collapse-icon-color: color-mix(in srgb, var(--magenta) 60%, transparent);
 }
-.nav-folder-title[data-path^="03"]:hover {
+.nav-folder-title[data-path^="04"]:hover {
   --nav-collapse-icon-color: color-mix(
     in srgb,
     var(--magenta) 60%,
     var(--contrast-color)
   );
 }
-.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="03"]) {
+.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="04"]) {
   --nav-indentation-guide-color: color-mix(
     in srgb,
     var(--magenta) var(--medium-contrast-amount),
@@ -313,7 +373,7 @@ these to suit your own folder structure and vault theme!
   );
 }
 .tree-item-children
-  .nav-folder:has(.nav-folder-title[data-path^="03"])
+  .nav-folder:has(.nav-folder-title[data-path^="04"])
   .nav-file-title {
   color: color-mix(
     in srgb,
@@ -334,66 +394,6 @@ these to suit your own folder structure and vault theme!
   --nav-item-background-active: color-mix(
     in srgb,
     var(--magenta) var(--active-contrast-amount),
-    transparent
-  );
-}
-
-/* ------------------------------- 04 Prefix -------------------------------- */
-.nav-folder-title[data-path^="04"] {
-  color: var(--hot-red);
-  --nav-item-color-hover: color-mix(
-    in srgb,
-    var(--hot-red) var(--fg-contrast-amount),
-    var(--contrast-color)
-  );
-  --nav-item-background-hover: color-mix(
-    in srgb,
-    var(--hot-red) var(--bg-contrast-amount),
-    transparent
-  );
-  --background-modifier-border-focus: color-mix(
-    in srgb,
-    var(--hot-red) 40%,
-    transparent
-  );
-  --nav-collapse-icon-color: color-mix(in srgb, var(--hot-red) 60%, transparent);
-}
-.nav-folder-title[data-path^="04"]:hover {
-  --nav-collapse-icon-color: color-mix(
-    in srgb,
-    var(--hot-red) 60%,
-    var(--contrast-color)
-  );
-}
-.tree-item-children .nav-folder:has(.nav-folder-title[data-path^="04"]) {
-  --nav-indentation-guide-color: color-mix(
-    in srgb,
-    var(--hot-red) var(--medium-contrast-amount),
-    transparent
-  );
-}
-.tree-item-children
-  .nav-folder:has(.nav-folder-title[data-path^="04"])
-  .nav-file-title {
-  color: color-mix(
-    in srgb,
-    var(--hot-red) var(--medium-contrast-amount),
-    var(--default-text-color)
-  );
-  --nav-item-background-hover: color-mix(
-    in srgb,
-    color-mix(in srgb, var(--hot-red) 50%, var(--highlight))
-      var(--bg-contrast-amount),
-    transparent
-  );
-  --background-modifier-border-focus: color-mix(
-    in srgb,
-    var(--hot-red) 40%,
-    transparent
-  );
-  --nav-item-background-active: color-mix(
-    in srgb,
-    var(--hot-red) var(--active-contrast-amount),
     transparent
   );
 }
@@ -460,39 +460,39 @@ these to suit your own folder structure and vault theme!
 
 /* ------------------------------- 06 Prefix -------------------------------- */
 .nav-folder-title[data-path^="06"] {
-  color: var(--magenta);
+  color: var(--orange);
   --nav-item-color-hover: color-mix(
     in srgb,
-    var(--magenta) var(--fg-contrast-amount),
+    var(--orange) var(--fg-contrast-amount),
     var(--contrast-color)
   );
   --nav-item-background-hover: color-mix(
     in srgb,
-    var(--magenta) var(--bg-contrast-amount),
+    var(--orange) var(--bg-contrast-amount),
     transparent
   );
   --background-modifier-border-focus: color-mix(
     in srgb,
-    var(--magenta) 40%,
+    var(--orange) 40%,
     transparent
   );
   --nav-collapse-icon-color: color-mix(
     in srgb,
-    var(--magenta) 60%,
+    var(--orange) 60%,
     transparent
   );
 }
 .nav-folder-title[data-path^="06"]:hover {
   --nav-collapse-icon-color: color-mix(
     in srgb,
-    var(--magenta) 60%,
+    var(--orange) 60%,
     var(--contrast-color)
   );
 }
 .tree-item-children .nav-folder:has(.nav-folder-title[data-path^="06"]) {
   --nav-indentation-guide-color: color-mix(
     in srgb,
-    var(--magenta) var(--medium-contrast-amount),
+    var(--orange) var(--medium-contrast-amount),
     transparent
   );
 }
@@ -501,62 +501,62 @@ these to suit your own folder structure and vault theme!
   .nav-file-title {
   color: color-mix(
     in srgb,
-    var(--magenta) var(--medium-contrast-amount),
+    var(--orange) var(--medium-contrast-amount),
     var(--default-text-color)
   );
   --nav-item-background-hover: color-mix(
     in srgb,
-    color-mix(in srgb, var(--magenta) 50%, var(--highlight))
+    color-mix(in srgb, var(--orange) 50%, var(--highlight))
       var(--bg-contrast-amount),
     transparent
   );
   --background-modifier-border-focus: color-mix(
     in srgb,
-    var(--magenta) 40%,
+    var(--orange) 40%,
     transparent
   );
   --nav-item-background-active: color-mix(
     in srgb,
-    var(--magenta) var(--active-contrast-amount),
+    var(--orange) var(--active-contrast-amount),
     transparent
   );
 }
 
 /* ------------------------------- 07 Prefix -------------------------------- */
 .nav-folder-title[data-path^="07"] {
-  color: var(--hot-red);
+  color: var(--orange);
   --nav-item-color-hover: color-mix(
     in srgb,
-    var(--hot-red) var(--fg-contrast-amount),
+    var(--orange) var(--fg-contrast-amount),
     var(--contrast-color)
   );
   --nav-item-background-hover: color-mix(
     in srgb,
-    var(--hot-red) var(--bg-contrast-amount),
+    var(--orange) var(--bg-contrast-amount),
     transparent
   );
   --background-modifier-border-focus: color-mix(
     in srgb,
-    var(--hot-red) 40%,
+    var(--orange) 40%,
     transparent
   );
   --nav-collapse-icon-color: color-mix(
     in srgb,
-    var(--hot-red) 60%,
+    var(--orange) 60%,
     transparent
   );
 }
 .nav-folder-title[data-path^="07"]:hover {
   --nav-collapse-icon-color: color-mix(
     in srgb,
-    var(--hot-red) 60%,
+    var(--orange) 60%,
     var(--contrast-color)
   );
 }
 .tree-item-children .nav-folder:has(.nav-folder-title[data-path^="07"]) {
   --nav-indentation-guide-color: color-mix(
     in srgb,
-    var(--hot-red) var(--medium-contrast-amount),
+    var(--orange) var(--medium-contrast-amount),
     transparent
   );
 }
@@ -565,23 +565,23 @@ these to suit your own folder structure and vault theme!
   .nav-file-title {
   color: color-mix(
     in srgb,
-    var(--hot-red) var(--medium-contrast-amount),
+    var(--orange) var(--medium-contrast-amount),
     var(--default-text-color)
   );
   --nav-item-background-hover: color-mix(
     in srgb,
-    color-mix(in srgb, var(--hot-red) 50%, var(--highlight))
+    color-mix(in srgb, var(--orange) 50%, var(--highlight))
       var(--bg-contrast-amount),
     transparent
   );
   --background-modifier-border-focus: color-mix(
     in srgb,
-    var(--hot-red) 40%,
+    var(--orange) 40%,
     transparent
   );
   --nav-item-background-active: color-mix(
     in srgb,
-    var(--hot-red) var(--active-contrast-amount),
+    var(--orange) var(--active-contrast-amount),
     transparent
   );
 }

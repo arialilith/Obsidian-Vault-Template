@@ -5,7 +5,7 @@
   "daily": {
     "format": "",
     "template": "99 - Meta/00 - Templates/(TEMPLATE) Daily Note Template.md",
-    "folder": "03 - Daily Notes",
+    "folder": "05 - Journal/Daily Notes",
     "enabled": true
   },
   "weekly": {
@@ -16,7 +16,7 @@
   "monthly": {
     "format": "MMMM YYYY",
     "template": "99 - Meta/00 - Templates/(TEMPLATE) Monthly Note Template.md",
-    "folder": "04 - Monthly Notes",
+    "folder": "05 - Journal/Monthly Notes",
     "enabled": true
   },
   "quarterly": {
@@ -27,7 +27,7 @@
   "yearly": {
     "format": "",
     "template": "99 - Meta/00 - Templates/(TEMPLATE) Yearly Note Template.md",
-    "folder": "05 - Yearly Notes",
+    "folder": "05 - Journal/Yearly Notes",
     "enabled": true
   }
 }

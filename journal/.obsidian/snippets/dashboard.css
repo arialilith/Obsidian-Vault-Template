@@ -49,13 +49,17 @@
     font-size: 20px;
     padding-left: 6px;
     padding-right: 6px;
-  }
+}
 
-.dashboard :is(h6, .HyperMD-header.HyperMD-header-2) {
+.dashboard :is(h5, .HyperMD-header.HyperMD-header-2) {
     text-align: center;
     font-family: "Gill Sans MT";
     border-width: 1px !important;
     padding-bottom: 3px !important;
+}
+
+.dashboard h6 {
+    display: none;
 }
 
 /* Get rid of the parent bullet */

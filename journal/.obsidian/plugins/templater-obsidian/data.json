@@ -15,16 +15,16 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "01 - Events",
-      "template": "99 - Meta/00 - Templates/(TEMPLATE) Event Template.md"
+      "folder": "03 - Permanent/Events",
+      "template": "99 - Meta/templates/event template.md"
     },
     {
-      "folder": "03 - Daily Notes",
-      "template": "99 - Meta/00 - Templates/(TEMPLATE) Daily Note Template.md"
+      "folder": "05 - Journal/Daily Notes",
+      "template": "99 - Meta/templates/daily note template.md"
     },
     {
-      "folder": "02 - Thoughts",
-      "template": "99 - Meta/00 - Templates/(TEMPLATE) Thought Template.md"
+      "folder": "03 - Permanent/Thoughts",
+      "template": "99 - Meta/templates/thoughts template.md"
     }
   ],
   "syntax_highlighting": true,
@@ -32,7 +32,8 @@
   "enabled_templates_hotkeys": [
     "99 - Meta/00 - Templates/(TEMPLATE) Event Template.md",
     "99 - Meta/00 - Templates/(TEMPLATE) Highlight.md",
-    "99 - Meta/00 - Templates/(TEMPLATE) Thought Template.md"
+    "99 - Meta/00 - Templates/(TEMPLATE) Thought Template.md",
+    "99 - Meta/00 - Templates/(TEMPLATE) Daily Note Template.md"
   ],
   "startup_templates": [
     ""

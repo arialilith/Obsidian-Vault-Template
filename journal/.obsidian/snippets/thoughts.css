@@ -1,0 +1,24 @@
+.thoughts :is(h1, .HyperMD-header.HyperMD-header-1) {
+    font-size: 50px;
+    padding: 0 !important;
+    font-family: 'Libre Caslon Text';
+}
+
+.thoughts :is(h2, .HyperMD-header.HyperMD-header-2) {
+    font-size: 20px;
+    font-style: italic;
+    padding: 0;
+    font-family: "Libre Caslon Text";
+}
+
+.thoughts h6 {
+    display: none;
+}
+
+.thoughts :is(a:link, .cm-hmd-internal-link) {
+    color: var(--primary);
+}
+
+.thoughts :is(a:hover, .cm-hmd-internal-link:hover) {
+    color: var(--highlight);
+}

@@ -1,19 +1,15 @@
 ---
 date: <% tp.date.now("YYYY-MM-DD") %>
+cssclass: thoughts
 subtitle:
 type:
 subtype:
 tags: [thought]
----<% await tp.file.move("02 - Thoughts/" + tp.date.now("YYYY") + "/" + tp.date.now("MM - MMMM YYYY") + "/" + tp.file.title) %>
-Tags: #thoughts
-Links: [[<% tp.date.now("YYYY-MM-DD") %>]] | [[<% tp.date.now("MM - MMMM YYYY")%>]]
+---<% await tp.file.move("03 - Permanent/Thoughts/" + tp.date.now("YYYY") + "/" + tp.date.now("MM - MMMM YYYY") + "/" + tp.file.title) %>
+# [[<% tp.file.title %>]]
+## [[<% tp.date.now("YYYY-MM-DD") %>|<% tp.date.now("MMMM, Do YYYY") %>]]
+---
 
 ---
-# <% tp.file.title %>
-<% tp.date.now("YYYY-MM-DD") %>
 
----
-### :TiFileDescription: Description
-
----
-### :BoBxCamera: Pictures
+###### Links: [[<% tp.date.now("YYYY-MM-DD") %>]] | [[<% tp.date.now("MM - MMMM YYYY")%>]]

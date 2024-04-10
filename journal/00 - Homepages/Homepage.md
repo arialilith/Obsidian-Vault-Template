@@ -6,13 +6,15 @@ tags:
 ---
 ### To-Do List
 ```dataviewjs
-dv.taskList(dv.pages('"03 - Daily Notes"').file.tasks 
+dv.taskList(dv.pages('"05 - Journal/Daily Notes"').file.tasks 
   .where(t => !t.completed))
 ```
 ---
 ### Important Links
 - #### Spreadsheets
 - #### Google
+	- [Google Calendar](https://calendar.google.com/calendar/u/0/r)
+	- [Google Photos](https://photos.google.com/)
 
 ---
 ### Notes

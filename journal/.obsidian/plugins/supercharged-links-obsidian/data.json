@@ -25,7 +25,7 @@
     {
       "type": "path",
       "name": "",
-      "value": "01 - Events",
+      "value": "Events",
       "matchCaseSensitive": false,
       "match": "contains",
       "uid": "6c3e-9ada",
@@ -37,19 +37,7 @@
     {
       "type": "path",
       "name": "",
-      "value": "04 - Monthly Notes",
-      "matchCaseSensitive": false,
-      "match": "contains",
-      "uid": "dd98-ec47",
-      "selectText": true,
-      "selectAppend": true,
-      "selectPrepend": true,
-      "selectBackground": true
-    },
-    {
-      "type": "path",
-      "name": "",
-      "value": "03 - Daily Notes",
+      "value": "Journal",
       "matchCaseSensitive": false,
       "match": "contains",
       "uid": "290d-9a4d",
@@ -61,22 +49,10 @@
     {
       "type": "path",
       "name": "",
-      "value": "02 - Thoughts",
+      "value": "Thoughts",
       "matchCaseSensitive": false,
       "match": "contains",
       "uid": "6fe7-9a3d",
-      "selectText": true,
-      "selectAppend": true,
-      "selectPrepend": true,
-      "selectBackground": true
-    },
-    {
-      "type": "path",
-      "name": "",
-      "value": "05 - Yearly Notes",
-      "matchCaseSensitive": false,
-      "match": "contains",
-      "uid": "2847-2a62",
       "selectText": true,
       "selectAppend": true,
       "selectPrepend": true,
