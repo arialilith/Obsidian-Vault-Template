@@ -4,5 +4,5 @@
 }
 
 .inline-field-key[data-dv-key="highlight"] + .inline-field-value {
-  background-color: #000;
+  background-color: inherit;
 }
