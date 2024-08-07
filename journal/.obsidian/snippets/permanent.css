@@ -1,0 +1,86 @@
+:root {
+    --highlight: #ffffff;
+    --primary: #aaaaaa;
+    --dark: #333333;
+  }
+
+.thoughts :is(h1, .HyperMD-header.HyperMD-header-1) {
+    font-size: 50px;
+    padding: 0 !important;
+    font-family: 'Libre Caslon Text';
+}
+
+.thoughts :is(h2, .HyperMD-header.HyperMD-header-2) {
+    font-size: 20px;
+    font-style: italic;
+    padding: 0;
+    font-family: "Libre Caslon Text";
+}
+
+.thoughts h6 {
+    display: none;
+}
+
+.thoughts :is(a:link, .cm-hmd-internal-link) {
+    color: var(--primary) !important;
+}
+
+.thoughts :is(a:hover, .cm-hmd-internal-link:hover) {
+    color: var(--highlight) !important;
+}
+
+.thoughts .internal-link{
+    color: var(#fff) !important;
+}
+.events :is(h1, .HyperMD-header.HyperMD-header-1) {
+    font-size: 50px;
+    text-align: center;
+    padding: 0 !important;
+    font-family: 'Kode Mono';
+}
+
+.events :is(h2, .HyperMD-header.HyperMD-header-2) {
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    padding: 0 !important;
+    font-family: "Kode Mono";
+  }
+
+.events :is(h3, .HyperMD-header.HyperMD-header-3) {
+    text-align: center;
+    font-family: "Kode Mono";
+    font-size: 32px;
+    padding-top: 0;
+
+}
+  
+.events :is(h4, .HyperMD-header.HyperMD-header-4) {
+    margin-bottom: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 20px;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+  
+.events :is(h5, .HyperMD-header.HyperMD-header-6) {
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.events h6 {
+    display: none;
+}
+
+.events img {
+    width: 50%
+}
+
+.events img[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}

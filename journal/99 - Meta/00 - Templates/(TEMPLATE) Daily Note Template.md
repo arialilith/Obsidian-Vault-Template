@@ -1,7 +1,9 @@
 ---
 date: <% tp.file.title %>
 tags:
-cssclass: daily
+cssclass: 
+- daily
+<% "- " + tp.date.now("dddd", 0, tp.file.title, "YYYYMMDD").toLowerCase() %>
 
 ---<% await tp.file.move("05 - Journal/Daily Notes/" + tp.date.now("YYYY", 0, tp.file.title, "YYYY-MM-DD") + "/" + tp.date.now("MM - MMMM YYYY", 0, tp.file.title, "YYYY-MM-DD") + "/" + tp.file.title) %>
 # DAILY NOTE
